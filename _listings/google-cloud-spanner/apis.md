@@ -18,8 +18,8 @@ tags:
 - Stack Network
 - Google APIs
 - Database
-created: "2018-03-10"
-modified: "2018-03-10"
+created: "2018-03-15"
+modified: "2018-03-15"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-cloud-spanner/master/_listings/google-cloud-spanner/apis.yaml
 specificationVersion: "0.14"
 apis:
