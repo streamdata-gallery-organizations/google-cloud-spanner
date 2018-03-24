@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: google-cloud-spanner.api.streamdata.gallery
+title: Streamdata Gallery Google Cloud Spanner
+url: google-cloud-spanner.streamdata.gallery
 tag: Google Cloud Spanner
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: google-cloud-spanner
 github_branch: master
 collections:
